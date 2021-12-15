@@ -1,5 +1,3 @@
-<a id="tecnologies-used"></a>
-
 ## :rocket: Used Technologies
 
 - [JavaScript](https://www.javascript.com/)
@@ -10,3 +8,15 @@
 - [Antd](https://ant.design/)
 - [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
 - [Node-sass](https://www.npmjs.com/package/node-sass)
+
+
+## :rocket:Steps
+
+## Back:
+- npm install
+- npm start
+- npm run seed
+
+## Front:
+- yarn
+- yarn start
